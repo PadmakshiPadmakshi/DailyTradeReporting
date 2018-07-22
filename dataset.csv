@@ -1,0 +1,7 @@
+Entity	Buy/Sell	AgreedFx	Currency	InstructionDate	SettlementDate	Units	Price per unit
+foo	B	0.50	SGP	01 Jan 2016	02 Jan 2016	200	100.25
+bar	S	0.22	AED	05 Jan 2016	07 Jan 2016	400	150.5
+abc	B	0.57	SGP	07 Jan 2016	08 Jan 2016	700	200.5
+xyz	S	0.42	GPB	09 Jan 2016	10 Jan 2016	400	450.2
+pqr	B	0.20	GBP	11 Jan 2016	12 Jan 2016	240	190.30
+efg	S	0.82	INR	15 Jan 2016	17 Jan 2016	350	350.5
