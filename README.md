@@ -87,3 +87,5 @@ RANKING OF ENTITIES BASED ON OUTGOING AMOUNT
  - The test coverage is not comprehensive.
  - Rounding with format specifier .02f.
 
+## Notes
+Additional documentation can be viewed using pydoc e.g. `pydoc ./main.py`
