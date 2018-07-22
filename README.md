@@ -74,6 +74,27 @@ RANKING OF ENTITIES BASED ON OUTGOING AMOUNT
          
 =========================================================
 
+## Tests
+    $ python -m unittest discover
+    ..
+    ----------------------------------------------------------------------
+    Ran 2 tests in 0.000s
+
+    OK
+    $ 
+
+    $ python test.py -v
+    test_Instruction (__main__.DailyTradingReport)
+    Test the Instruction object, which represents a single Buy or Sell ... ok
+    test_Reporting (__main__.DailyTradingReport)
+    Test the top-level Reporting object, which holds the data and reports on it. ... ok
+
+    ----------------------------------------------------------------------
+    Ran 2 tests in 0.000s
+
+    OK
+    $ 
+
 ## Assumptions
  - Python 3+
  - Data will contain a field delimiter (default tab), so that each record can be split()
